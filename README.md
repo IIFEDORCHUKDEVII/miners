@@ -21,7 +21,6 @@ A mobile game built with **React Native** where players spin a slot-style interf
 
 ## 📁 Folder Structure
 
-src/
 │
 ├── assets/                    # Зображення та інші ресурси
 │
