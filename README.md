@@ -20,22 +20,18 @@ A mobile game built with **React Native** where players spin a slot-style interf
 - **Modular architecture** with reusable UI components
 
 ## 📁 Folder Structure
-
-│
-├── assets/                    # Зображення та інші ресурси
-│
-├── components/                # UI-компоненти
-│   ├── CatchGoldItem/
-│   ├── CatchSlot/
-│   └── HeaderScreen/
-│
-├── core/                      # Базові повторно використовувані компоненти
-│   └── ButtonBottom/
-│
-├── screens/                   # Основні екрани
-│   └── CatchGoldScreen/
-│       ├── index.tsx
-
+```
+└── 📁src
+    └──📁assets
+    └──📁components/                # UI-компоненти
+        └── CatchGoldItem/
+        └── CatchSlot/
+        └── HeaderScreen/
+    └──📁core/                      # Базові повторно використовувані компоненти
+       └── ButtonBottom/
+    └──📁 screens/                   # Основні екрани
+        └── CatchGoldScreen/
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
